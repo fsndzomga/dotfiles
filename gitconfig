@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ndzomgafs@gmail.com
+	name = Franck Stephane Ndzomga
